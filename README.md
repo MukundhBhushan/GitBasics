@@ -1,2 +1,2 @@
 # GitBasics
-Git and github basics
+Git and GitHub basics
